@@ -1,4 +1,4 @@
-[![MasterHead](https://images.hitpaw.com/topics/photo-tips/pixel-art.jpg)
+![MasterHead](https://images.hitpaw.com/topics/photo-tips/pixel-art.jpg)
 <h1 align="center">Hi 👋, I'm Hamza Ustalar</h1>
 <h3 align="center">Computer engineer in Turkey. Always open to learning</h3>
 
