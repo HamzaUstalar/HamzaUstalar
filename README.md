@@ -1,4 +1,4 @@
-![MasterHead](https://images.hitpaw.com/topics/photo-tips/pixel-art.jpg)
+![github](https://github.com/HamzaUstalar/HamzaUstalar/assets/126919125/1af3d799-ae57-4176-832a-0e3520389d50)
 <h1 align="center">Hi 👋, I'm Hamza Ustalar</h1>
 <h3 align="center">Computer engineer in Turkey. Always open to learning</h3>
 
