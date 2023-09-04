@@ -1,4 +1,7 @@
-![github](https://github.com/HamzaUstalar/HamzaUstalar/assets/126919125/1af3d799-ae57-4176-832a-0e3520389d50)
+
+![HamzaUstalar'GitHub](https://github.com/HamzaUstalar/HamzaUstalar/assets/126919125/18f92007-bfff-4b02-ae71-00d6a6a62e57)
+
+
 <h1 align="center">Hi 👋, I'm Hamza Ustalar</h1>
 <h3 align="center">Computer engineer in Turkey. Always open to learning</h3>
 
