@@ -1,9 +1,4 @@
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8zenltdTM2ZzI3Yjc4cTIxNnphNHBmNGIyYWsxcjhkaTRvcng0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xua9sC8l4yYGzSqbtJ/giphy.gif)
-
-
-
-
-
+![HamzaUstalar'GitHub](https://github.com/HamzaUstalar/HamzaUstalar/assets/126919125/18f92007-bfff-4b02-ae71-00d6a6a62e57)
 <h1 align="center">Hi 👋, I'm Hamza Ustalar</h1>
 <h3 align="center">Computer engineer in Turkey. Always open to learning</h3>
 
