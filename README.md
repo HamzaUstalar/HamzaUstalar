@@ -1,7 +1,6 @@
 
+![MasterHead](https://wallpaperaccess.com/full/2825810.gif)
 
-
-https://github.com/HamzaUstalar/HamzaUstalar/assets/126919125/2a2b5d1e-58c8-4344-aa7f-d747d7dbc62c
 
 
 
