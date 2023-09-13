@@ -1,10 +1,4 @@
-
-![MasterHead](https://wallpaperaccess.com/full/2825810.gif)
-
-
-
-
-
+![Hamza](https://github.com/HamzaUstalar/HamzaUstalar/assets/126919125/66603383-7239-4a8e-8b59-6a7e6bc3b097)
 <h1 align="center">Hi 👋, I'm Hamza Ustalar</h1>
 <h3 align="center">Computer engineer in Turkey. Always open to learning</h3>
 
